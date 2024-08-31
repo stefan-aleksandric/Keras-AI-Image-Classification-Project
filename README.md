@@ -9,7 +9,7 @@ This project uses the NASNetMobile model using Keras and Python for flower image
   
     Freezing all base model layers except the last 20 for Fine-Tunning of the model.
     Compiling with the SGD optimizer.
-    Implemented Early Stopping, Droput, Pooling, Conv2D, GridSearch , Skip connections...
+    Implemented Early Stopping, Droput, Pooling, Conv2D, Skip connections...
     Added custom GridSearch function for trying out different hyperparameters.
     
   Evaluation: 
