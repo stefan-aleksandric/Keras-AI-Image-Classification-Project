@@ -6,7 +6,8 @@ This project uses the NASNetMobile model using Keras and Python for flower image
   Model: Utilizing NASNetMobile without the top layer (include_top=False) and adding custom layers.
 
   Training:
-  
+
+    Normalization and agumentation of photos from dataset
     Freezing all base model layers except the last 20 for Fine-Tunning of the model.
     Compiling with the SGD optimizer.
     Implemented Early Stopping, Droput, Pooling, Conv2D, Skip connections...
