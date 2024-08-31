@@ -11,9 +11,11 @@ Implemented:
     Compiling with the SGD optimizer.
     Implementing Early Stopping with patience=5.
     Added custom GridSearch function for trying out different hyperparameters.
+    
   Evaluation: 
     The model was trained and evaluated on the validation set.
     Code for trying out various photos from internet is implemented.
+    
   How to Run:
     Load the dataset to the specified path.
     Execute the code to train the model.
