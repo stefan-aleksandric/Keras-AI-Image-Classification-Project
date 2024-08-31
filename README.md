@@ -14,7 +14,7 @@ Implemented:
     
   Evaluation: 
     The model was trained and evaluated on the validation set.
-    Code for trying out various photos from internet is implemented.
+    Code for trying out various photos from internet and batches of photos from dataset is implemented.
     
   How to Run:
     Load the dataset to the specified path.
