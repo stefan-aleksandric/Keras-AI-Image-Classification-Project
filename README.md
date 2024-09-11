@@ -1,4 +1,4 @@
-# Keras-AiImageClassificationModel with NASNetMobile
+# Keras-AI Image Classification Project using NASNetMobile model
 This project uses the NASNetMobile model with Keras and Python for flower image classification. Transfer learning is applied for faster and more efficient training.
 
   Dataset: Loading and augmenting data from the dataset that is uploaded to Google Drive.
